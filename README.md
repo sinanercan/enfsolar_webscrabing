@@ -1,1 +1,3 @@
 # enfsolar_webscrabing
+This project has been developed for web scraping from https://www.enfsolar.com/ website. In order to use the programme, the chrome driver must be compatible with the related version of selenium package. The code asks the user to enter the country number to scrape the company and product information of the relevant country. The first time the code is run, it creates an excel file that holds the scraped information. It creates a worksheet on excel file and its name is country name and save data on this worksheet. When the code is run again it creates a new worksheet which is name new country to scrape and save data in this worksheet. If the code run for same country the code updated data on the worksheet.    
+Feel free to contact me for support.
